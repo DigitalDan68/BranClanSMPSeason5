@@ -792,6 +792,12 @@
       "name": "Twilight Forest",
       "version": "227639",
       "type": "mod"
+    },
+    {
+      "url" : "https://cdn.modrinth.com/data/Bi8o4aLw/versions/G5bmC36h/SimpleCustomEarlyLoading-2.2-neoforge.jar",
+      "name": "Simple Custom Early Loading Screen",
+      "version": "G5bmC36h",
+      "type": "mod"
     }
   ]
 }
