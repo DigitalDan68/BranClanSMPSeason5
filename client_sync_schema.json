@@ -814,8 +814,8 @@
     {
       "url": "https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/config/config.zip",
       "name": "Simple Custom Loading Screen Config",
-      "version": "1.0",
-      "type": "packed",
+      "version": "2.0",
+      "type": "config",
       "directory": "config"
 
     }
