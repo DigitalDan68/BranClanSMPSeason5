@@ -62,33 +62,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/sbpqhzIG/versions/XlCN7NWa/better_modlist-1.1.22.jar",
-      "name": "better-modlist",
-      "version": "XlCN7NWa",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/Lvv4SHrK/versions/xv5fSPWX/BetterThanMending-2.2.0.jar",
       "name": "better-than-mending",
       "version": "xv5fSPWX",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/aG5y4JUQ/BetterThirdPerson-neoforge-1.9.0.jar",
-      "name": "better-third-person",
-      "version": "aG5y4JUQ",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/UVSMPjiS/BetterTridents-v21.1.0-1.21.1-NeoForge.jar",
       "name": "better-tridents",
       "version": "UVSMPjiS",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/8oDa7chj/chat_heads-0.15.1-neoforge-1.21.jar",
-      "name": "chat-heads",
-      "version": "8oDa7chj",
       "type": "mod"
     },
     {
@@ -107,24 +89,6 @@
       "url": "https://cdn.modrinth.com/data/dQcfqGbl/versions/c10AZba0/cobweb-neoforge-1.21-1.4.0.jar",
       "name": "cobweb",
       "version": "c10AZba0",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/1i8teo7m/connector-2.0.0-beta.14%2B1.21.1-full.jar",
-      "name": "connector",
-      "version": "1i8teo7m",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/1IjD5062/versions/eXGUs5sy/continuity-3.0.0%2B1.21.neoforge.jar",
-      "name": "continuity",
-      "version": "eXGUs5sy",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
-      "name": "controlling",
-      "version": "FaNppCJJ",
       "type": "mod"
     },
     {
@@ -248,12 +212,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/epixUL1j/cwb-neoforge-3.0.0%2Bmc1.21.jar",
-      "name": "cubes-without-borders",
-      "version": "epixUL1j",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
       "name": "curios",
       "version": "yohfFbgD",
@@ -266,33 +224,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/T238FZpQ/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
-      "name": "dynamic-fps",
-      "version": "T238FZpQ",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/gA5euN8S/versions/OBp8ltOS/EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar",
       "name": "easy-shulker-boxes",
       "version": "OBp8ltOS",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/X2O4Wo1f/entity_model_features_1.21-neoforge-3.1.1.jar",
-      "name": "entity-model-features",
-      "version": "X2O4Wo1f",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/LrKSuU8e/entityculling-neoforge-1.10.1-mc1.21.1.jar",
-      "name": "entityculling",
-      "version": "LrKSuU8e",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/YEMROAHv/entity_texture_features_1.21-neoforge-7.1.jar",
-      "name": "entitytexturefeatures",
-      "version": "YEMROAHv",
       "type": "mod"
     },
     {
@@ -335,12 +269,6 @@
       "url": "https://cdn.modrinth.com/data/XiC6HzoU/versions/XMduptKZ/gliders-1.21.1-neoforge-1.1.8.jar",
       "name": "gliders",
       "version": "XMduptKZ",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/PhxY0iHw/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
-      "name": "immediatelyfast",
-      "version": "PhxY0iHw",
       "type": "mod"
     },
     {
@@ -434,18 +362,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-      "name": "mouse-tweaks",
-      "version": "9I21YYxf",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/FqqXQToo/notenoughanimations-neoforge-1.12.2-mc1.21.1.jar",
-      "name": "not-enough-animations",
-      "version": "FqqXQToo",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/yM94ont6/versions/alR8L7vF/notenoughcrashes-neoforge-4.4.9%2B1.21.1.jar",
       "name": "notenoughcrashes",
       "version": "alR8L7vF",
@@ -455,12 +371,6 @@
       "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/NMCHU6DZ/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
       "name": "owo-lib",
       "version": "NMCHU6DZ",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/QxYN8FNF/versions/dr8C4huF/particle_effects-1.21.1-NeoForge-1.0.1.jar",
-      "name": "particle-effects-reforged",
-      "version": "dr8C4huF",
       "type": "mod"
     },
     {
@@ -479,12 +389,6 @@
       "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
       "name": "playeranimator",
       "version": "HJZB6bmA",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/IhZuHxkl/versions/CYizuwV6/Pretty%20Rain-1.21.1-NeoForge-1.1.4.jar",
-      "name": "pretty-rain",
-      "version": "CYizuwV6",
       "type": "mod"
     },
     {
@@ -512,12 +416,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
-      "name": "reeses-sodium-options",
-      "version": "xAiCe6w8",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/zVaOQTh5/respackopts-4.14.0%2B1.21.1.forge.4.jar",
       "name": "respackopts",
       "version": "zVaOQTh5",
@@ -533,12 +431,6 @@
       "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/g8CObHcP/sable-neoforge-1.21.1-1.1.3.jar",
       "name": "sable",
       "version": "g8CObHcP",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar",
-      "name": "searchables",
-      "version": "iEE85X0w",
       "type": "mod"
     },
     {
@@ -572,18 +464,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
-      "name": "sodium",
-      "version": "Pb3OXVqC",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/pFmw1eci/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar",
-      "name": "sodium-extra",
-      "version": "pFmw1eci",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/TiDxy94j/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
       "name": "sophisticated-backpacks",
       "version": "TiDxy94j",
@@ -599,12 +479,6 @@
       "url": "https://cdn.modrinth.com/data/d6MhxwRo/versions/j16Kori6/soul-fire-d-neoforge-1.21-6.1.0.jar",
       "name": "soul-fire-d",
       "version": "j16Kori6",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
-      "name": "sound-physics-remastered",
-      "version": "Dd2tmpsk",
       "type": "mod"
     },
     {
@@ -659,12 +533,6 @@
       "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/Jy5V5FNj/VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar",
       "name": "visual-workbench",
       "version": "Jy5V5FNj",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/E0SdeAoH/versions/L5jTlkf7/wakes-1.21.1-NeoForge-1.0.5.jar",
-      "name": "wakes-reforged",
-      "version": "L5jTlkf7",
       "type": "mod"
     },
     {
@@ -779,12 +647,6 @@
       "url": "https://www.curseforge.com/api/v1/mods/1515836/files/7981917/download",
       "name": "Boids",
       "version": "1.0.2",
-      "type": "mod"
-    },
-    {
-      "url" : "https://github.com/penguinencounter/Figura/releases/download/sodium-patched-jars-placeholder/figura-0.1.5+1.21.1-neoforge-patched.jar",
-      "name": "Figura Patched",
-      "version": "0.1.5",
       "type": "mod"
     },
     {
