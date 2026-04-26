@@ -648,6 +648,18 @@
       "name": "Twilight Forest",
       "version": "227639",
       "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/404465/files/7746959/download",
+      "name": "FTB Library",
+      "version": "404465",
+      "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/410811/files/7608733/download",
+      "name": "FTB Essentials",
+      "version": "410811",
+      "type": "mod"
     }
   ]
 }
