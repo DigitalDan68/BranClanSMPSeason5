@@ -798,6 +798,14 @@
       "name": "Simple Custom Early Loading Screen",
       "version": "G5bmC36h",
       "type": "mod"
+    },
+    {
+      "url": "https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/config.zip",
+      "name": "Simple Custom Loading Screen Config",
+      "version": "1.0",
+      "type": "packed",
+      "directory": "config"
+
     }
   ]
 }
