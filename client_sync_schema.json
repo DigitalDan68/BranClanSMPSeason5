@@ -800,14 +800,6 @@
       "type": "mod"
     },
     {
-      "url": "https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/config.zip",
-      "name": "Simple Custom Loading Screen Config",
-      "version": "1.0",
-      "type": "packed",
-      "directory": "config"
-
-    },
-    {
       "url": "https://www.curseforge.com/api/v1/mods/404465/files/7746959/download",
       "name": "FTB Library",
       "version": "404465",
@@ -818,6 +810,14 @@
       "name": "FTB Essentials",
       "version": "410811",
       "type": "mod"
+    },
+    {
+      "url": "https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/config.zip",
+      "name": "Simple Custom Loading Screen Config",
+      "version": "1.0",
+      "type": "packed",
+      "directory": "config"
+
     }
   ]
 }
