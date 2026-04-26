@@ -524,18 +524,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CatMvRfN/xaerominimap-neoforge-1.21.1-25.3.10.jar",
-      "name": "xaeros-minimap",
-      "version": "CatMvRfN",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/arbQPyvf/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
-      "name": "xaeros-world-map",
-      "version": "arbQPyvf",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
       "name": "yacl",
       "version": "7TVdVtxF",
