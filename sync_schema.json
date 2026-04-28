@@ -648,6 +648,12 @@
       "name": "FTB Essentials",
       "version": "410811",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+      "name": "Polymorph",
+      "version": "VEburL70",
+      "type": "mod"
     }
   ]
 }
