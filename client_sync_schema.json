@@ -824,6 +824,12 @@
       "name": "Polymorph",
       "version": "VEburL70",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/COlSi5iR/versions/9iPiN34N/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.91.jar",
+      "name": "CCME",
+      "version": "9iPiN34N",
+      "type": "mod"
     }
   ]
 }
