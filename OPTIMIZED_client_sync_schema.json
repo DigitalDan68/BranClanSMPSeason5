@@ -830,6 +830,12 @@
       "name": "Fast Items",
       "version": "aNSTW6yz",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+      "name": "IRIS",
+      "version": "t3ruzodq",
+      "type": "mod"
     }
   ]
 }
