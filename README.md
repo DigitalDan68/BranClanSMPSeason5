@@ -9,7 +9,9 @@ I have attached both *Modrinith* and *CurseForge* Packs for your convivence. Thi
 ### [Modrinith Mrpack Download](https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/BranClanSMP%20Season5.mrpack)
 ### [CurseForge Zip Download](https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/BranClanSMP%20Season5.zip)
 
-Simple Mod Sync will ask you to provide a link for a Schema.json File. Please insert the link:
+Simple Mod Sync will ask you to provide a link for a Schema.json file.
+
+### Please insert the link:
     https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/client_sync_schema.json
 
 This will download all the mods as you will see a progress bar at the top. Once everything is downloaded please restart the game.
