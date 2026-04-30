@@ -6,10 +6,8 @@ This version is once again modded. So Please allocate as much **RAM** as possibl
 
 I have attached both *Modrinith* and *CurseForge* Packs for your convivence. This time around we are using Mod Sync in order to keep my sanity in check. When you open the instance it'll ask for a link.
 
-# Modrinith Mrpack
-[https://github.com/DigitalDan68/BranClanSMPSeason5/blob/main/BranClanSMP%20Season5.mrpack](#modrinith-mrpack)
-# CurseForge Zip
-[https://github.com/DigitalDan68/BranClanSMPSeason5/blob/main/BranClanSMP%20Season5.zip](#curseforge-zip)
+# [Modrinith Mrpack Download](https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/BranClanSMP%20Season5.mrpack)
+# [CurseForge Zip Download](https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/BranClanSMP%20Season5.zip)
 
 Please insert this link:
     https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/client_sync_schema.json
