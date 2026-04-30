@@ -824,6 +824,12 @@
       "name": "IRIS",
       "version": "t3ruzodq",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/RMJKHoqI/controlify-2.5.2%2B1.21.1-neoforge.jar",
+      "name": "Controlify",
+      "version": "RMJKHoqI",
+      "type": "mod"
     }
   ]
 }
