@@ -6,8 +6,8 @@ This version is once again modded. So Please allocate as much **RAM** as possibl
 
 I have attached both *Modrinith* and *CurseForge* Packs for your convivence. This time around we are using Mod Sync in order to keep my sanity in check. When you open the instance it'll ask for a link.
 
-# [Modrinith Mrpack Download](https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/BranClanSMP%20Season5.mrpack)
-# [CurseForge Zip Download](https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/BranClanSMP%20Season5.zip)
+### [Modrinith Mrpack Download](https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/BranClanSMP%20Season5.mrpack)
+### [CurseForge Zip Download](https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/BranClanSMP%20Season5.zip)
 
 Please insert this link:
     https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/client_sync_schema.json
@@ -22,12 +22,15 @@ If you have any question or concerns please ask me directly or submit an issue o
 
 Thank you and I hope everyone enjoys!
 
-# If you are having performance issues please follow below
+## Performance Issues | Steam Deck Installation 
 
-Please use the Optimized Mod Sync Link:
+### PC Sync Schema Link:
     https://raw.githubusercontent.com/DigitalDan68/BranClanSMPSeason5/refs/heads/main/OPTIMIZED_client_sync_schema.json
 
-## Setting recommendations:
+### Steam Deck Schema Link:
+    https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/SteamDeck_client_sync_schema.json
+
+## Setting recommendations PC & Steam Deck:
 ### Fps: Unlimited
 ### V Sync: OFF
 ### Mipmap levels: 2x
