@@ -506,12 +506,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/ZP7xHXtw/versions/CSHa8VOm/rrls-5.0.10%2Bmc1.21.1-forge.jar",
-      "name": "rrls",
-      "version": "CSHa8VOm",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar",
       "name": "sable",
       "version": "3FMsUjO4",
@@ -805,12 +799,6 @@
       "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar",
       "name": "Polymorph",
       "version": "VEburL70",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/c3onkd5k/versions/MQIPSR2v/AsyncParticles-3.3.11%2B1.21.1.jar",
-      "name": "AsyncParticles",
-      "version": "MQIPSR2v",
       "type": "mod"
     },
     {
