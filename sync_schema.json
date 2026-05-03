@@ -410,12 +410,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/ZP7xHXtw/versions/CSHa8VOm/rrls-5.0.10%2Bmc1.21.1-forge.jar",
-      "name": "rrls",
-      "version": "CSHa8VOm",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar",
       "name": "sable",
       "version": "3FMsUjO4",
@@ -628,7 +622,7 @@
     {
       "url" : "https://www.curseforge.com/api/v1/mods/1293085/files/6790941/download",
       "name": "Inventory Management Deluxe",
-      "version": "1293085",
+      "version": "1293086",
       "type": "mod"
     },
     {
