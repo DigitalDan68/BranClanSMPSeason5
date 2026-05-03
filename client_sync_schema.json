@@ -830,6 +830,67 @@
       "name": "CCME",
       "version": "9iPiN34N",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/XKDQlGJW/bits_n_bobs-0.0.44.jar",
+      "name": "Create: Bits 'n' Bobs",
+      "version": "XKDQlGJW",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ApkoHNO9/versions/qbgJq3vb/createpropulsion-1.1.0.jar",
+      "name": "Create: Propulsion Simulated",
+      "version": "qbgJq3vb",
+      "type": "mod"
+
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/OuwQlVxo/colorwheel-neoforge-1.2.4%2Bmc1.21.1.jar",
+      "name": "ColorWheel",
+      "version": "OuwQlVxo",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/KPsw5jDu/versions/dQqV3sci/colorwheel_patcher-neoforge-1.0.5%2Bmc1.21.1.jar",
+      "name": "ColorWheel Patcher",
+      "version": "dQqV3sci",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Q1vvjJYV/versions/3WGx0wKu/BSL_v10.1.zip",
+      "name": "BSL",
+      "version": "3WGx0wKu",
+      "type": "shader"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ZvMtQlho/versions/kC2Y8q1P/Bliss_v2.1.2_%28Chocapic13_Shaders_edit%29.zip",
+      "name": "Bliss",
+      "version": "kC2Y8q1P",
+      "type": "shader"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lLqFfGNs/versions/oQcHY597/photon_v1.3a.zip",
+      "name": "Photon",
+      "version": "oQcHY597",
+      "type": "shader"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/kmwfVOoi/versions/cpD4esk9/rethinking-voxels_r0.1-beta9.zip",
+      "name": "ReThinking Voxels",
+      "version": "cpD4esk9",
+      "type": "shader"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip",
+      "name": "Complementary Reimagined",
+      "version": "836bPNGo",
+      "type": "shader"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/DoODk4HD/versions/5XZ87HwT/I%20Like%20Vanilla%20v1.3.5.zip",
+      "name": "I Like Vanilla",
+      "version": "5XZ87HwT",
+      "type": "shader"
     }
   ]
 }

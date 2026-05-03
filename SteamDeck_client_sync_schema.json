@@ -830,6 +830,19 @@
       "name": "Controlify",
       "version": "RMJKHoqI",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/XKDQlGJW/bits_n_bobs-0.0.44.jar",
+      "name": "Create: Bits 'n' Bobs",
+      "version": "XKDQlGJW",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ApkoHNO9/versions/qbgJq3vb/createpropulsion-1.1.0.jar",
+      "name": "Create: Propulsion Simulated",
+      "version": "qbgJq3vb",
+      "type": "mod"
+
     }
   ]
 }
