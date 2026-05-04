@@ -873,6 +873,12 @@
       "name": "CreativeCore",
       "version": "ObUu8hxJ",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/P0w3IrnX/versions/rDtJujm2/watermedia_youtube_plugin-2.1.2.jar",
+      "name": "WMYT",
+      "version": "rDtJujm2",
+      "type": "mod"
     }
   ]
 }
