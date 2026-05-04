@@ -667,6 +667,24 @@
       "version": "qbgJq3vb",
       "type": "mod"
 
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/eBzFuVTM/versions/p6zqgIqr/waterframes-NEOFORGE-mc1.21.1-v2.1.22.jar",
+      "name": "WaterFrames",
+      "version": "p6zqgIqr",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/fB0LmHnR/watermedia-2.1.37.jar",
+      "name": "WaterMedia",
+      "version": "fB0LmHnR",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/dGGbEGoV/versions/fYHfGRbK/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+      "name": "WaterVison",
+      "version": "fYHfGRbK",
+      "type": "mod"
     }
   ]
 }
