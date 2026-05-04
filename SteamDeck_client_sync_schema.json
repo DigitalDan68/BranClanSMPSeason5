@@ -867,6 +867,12 @@
       "name": "Vista",
       "version": "CxgHhorV",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ObUu8hxJ/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+      "name": "CreativeCore",
+      "version": "ObUu8hxJ",
+      "type": "mod"
     }
   ]
 }
