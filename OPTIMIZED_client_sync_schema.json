@@ -855,6 +855,12 @@
       "name": "WaterVison",
       "version": "fYHfGRbK",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/zuARv1N7/versions/CxgHhorV/vista-1.21-3.1.2-neoforge.jar",
+      "name": "Vista",
+      "version": "CxgHhorV",
+      "type": "mod"
     }
   ]
 }
