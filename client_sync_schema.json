@@ -921,6 +921,12 @@
       "name": "WMYT",
       "version": "rDtJujm2",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/wEWnF0xx/versions/b5GqYXEI/create-aeronautics-lift-patch-1.1.0.jar?mr_download_reason=standalone",
+      "name": "Create Aero Lift Patch",
+      "version": "b5GqYXEI",
+      "type": "mod"
     }
   ]
 }
