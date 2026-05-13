@@ -697,6 +697,12 @@
       "name": "Create Aero Lift Patch",
       "version": "b5GqYXEI",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/tHHGzOFQ/versions/ejlIzfJ8/grapplemod-1.1%2B1.21.1.neoforge.jar?mr_download_reason=standalone",
+      "name": "Grapple Hook",
+      "version": "ejlIzfJ8",
+      "type": "mod"
     }
   ]
 }
