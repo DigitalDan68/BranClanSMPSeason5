@@ -654,6 +654,18 @@
       "name": "Polymorph",
       "version": "VEburL70",
       "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/create-tracks/download/7968280",
+      "name": "Create: Tracks",
+      "version": "1.0.1",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/P26k79kP/versions/vsT0uzkn/aeroworks-1.2.11.jar?mr_download_reason=standalone",
+      "name": "Create: Aeroworks",
+      "version": "vsT0uzkn",
+      "type": "mod"
     }
   ]
 }
