@@ -536,12 +536,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/8IFHiuMI/versions/2NhQixOg/simplemodsync-neoforge-1.21.1-1.3.1.jar",
-      "name": "simple-mod-sync",
-      "version": "2NhQixOg",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/eREhvVpQ/simplyswords-neoforge-1.63.0-1.21.1.jar",
       "name": "simply-swords",
       "version": "eREhvVpQ",
