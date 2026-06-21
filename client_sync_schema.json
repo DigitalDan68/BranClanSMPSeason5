@@ -262,7 +262,7 @@
     {
       "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/g68FsgfE/DistantHorizons-3.1.2-b-1.21.1-fabric-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "distanthorizons",
-      "version": "g68FsgfE",
+      "version": "KkaaQtTD",
       "type": "mod"
     },
     {
@@ -911,9 +911,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/P0w3IrnX/versions/hUKYcxgB/watermedia_youtube_extension-3.0.0-beta.5.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "url": "https://cdn.modrinth.com/data/P0w3IrnX/versions/rDtJujm2/watermedia_youtube_plugin-2.1.2.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "WMYT",
-      "version": "hUKYcxgB",
+      "version": "rDtJujm2",
       "type": "mod"
     },
     {
