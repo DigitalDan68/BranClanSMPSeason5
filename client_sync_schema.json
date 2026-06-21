@@ -260,9 +260,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/KkaaQtTD/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/g68FsgfE/DistantHorizons-3.1.2-b-1.21.1-fabric-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "distanthorizons",
-      "version": "KkaaQtTD",
+      "version": "g68FsgfE",
       "type": "mod"
     },
     {
@@ -887,9 +887,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/PliJVHhd/watermedia-3.0.0.17.jar?mr_download_reason=dependency&mr_game_version=1.21.1&mr_loader=neoforge",
+      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/fB0LmHnR/watermedia-2.1.37.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "WaterMedia",
-      "version": "PliJVHhd",
+      "version": "fB0LmHnR",
       "type": "mod"
     },
     {
