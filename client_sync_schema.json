@@ -38,9 +38,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/4GgJN1LU/azurelib-neo-1.21.1-3.1.8.jar",
+      "url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/qNDjR17P/azurelib-neo-1.21.1-3.1.10.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "azurelib",
-      "version": "4GgJN1LU",
+      "version": "qNDjR17P",
       "type": "mod"
     },
     {
@@ -86,9 +86,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/8oDa7chj/chat_heads-0.15.1-neoforge-1.21.jar",
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/tTKkTWZ7/chat_heads-0.15.2-neoforge-1.21.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "chat-heads",
-      "version": "8oDa7chj",
+      "version": "tTKkTWZ7",
       "type": "mod"
     },
     {
@@ -158,9 +158,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/ffuMPkho/create_connected-1.1.14-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/ZYZ7Y9iB/create_connected-1.3.1-mc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "create-connected",
-      "version": "ffuMPkho",
+      "version": "ZYZ7Y9iB",
       "type": "mod"
     },
     {
@@ -182,9 +182,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/x49wilh8/versions/m6PCLHcp/Design-n-Decor-1.21.1-2.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "create-design-n-decor",
-      "version": "m6PCLHcp",
+      "version": "uQsIRky8",
       "type": "mod"
     },
     {
@@ -194,27 +194,27 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/ew6gKsnx/CreateDragonsPlus-1.10.0b.jar",
+      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/lSnZyFnZ/CreateDragonsPlus-1.11.2b.jar?mr_download_reason=standalone",
       "name": "create-dragons-plus",
-      "version": "ew6gKsnx",
+      "version": "lSnZyFnZ",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/hSSqdyU1/versions/sjCAxK2s/Create%20Encased-1.21.1-1.8-ht2.jar",
+      "url": "https://cdn.modrinth.com/data/hSSqdyU1/versions/3sUW27Ho/Create%20Encased-1.21.1-1.8.1-ht1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "create-encased",
-      "version": "sjCAxK2s",
+      "version": "3sUW27Ho",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/zjSKnkVT/create-enchantment-industry-2.3.1.jar",
+      "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/qUpvzZ83/create-enchantment-industry-2.4.2.jar?mr_download_reason=standalone&mr_loader=neoforge",
       "name": "create-enchantment-industry",
-      "version": "zjSKnkVT",
+      "version": "qUpvzZ83",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/OViKhK8K/createfood-neoforge-1.21.1-2.3.0.jar",
+      "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/9BNZ9n3q/createfood-neoforge-1.21.1-2.5.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "create-food",
-      "version": "OViKhK8K",
+      "version": "9BNZ9n3q",
       "type": "mod"
     },
     {
@@ -230,21 +230,21 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/ydVSjzJR/create_power_loader-2.0.3-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/3Y4r0ItR/create_power_loader-2.0.5-mc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "create-power-loader",
-      "version": "ydVSjzJR",
+      "version": "3Y4r0ItR",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/dZa50kut/railways-0.2.0-beta.2%2Bneoforge-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/xtIfPFWg/railways-0.3.0-alpha.2%2Bneoforge-mc1.21.1.jar?mr_download_reason=standalone",
       "name": "create-steam-n-rails-1.21.1",
-      "version": "dZa50kut",
+      "version": "xtIfPFWg",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/CP8Lhuwu/createaddition-1.5.10.jar",
+      "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/qPr8V4G2/createaddition-1.6.0.jar?mr_download_reason=standalone",
       "name": "createaddition",
-      "version": "CP8Lhuwu",
+      "version": "qPr8V4G2",
       "type": "mod"
     },
     {
@@ -284,9 +284,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/LrKSuU8e/entityculling-neoforge-1.10.1-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/5zRIon6w/entityculling-neoforge-1.10.5-mc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "entityculling",
-      "version": "LrKSuU8e",
+      "version": "5zRIon6w",
       "type": "mod"
     },
     {
@@ -296,9 +296,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/rOESN0jP/FarmersDelight-1.21.1-1.2.11a.jar",
+      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/GbNuOZ4S/FarmersDelight-1.21.1-1.3.2.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "farmers-delight",
-      "version": "rOESN0jP",
+      "version": "GbNuOZ4S",
       "type": "mod"
     },
     {
@@ -344,15 +344,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/YfqFZc6N/immersive_melodies-neoforge-0.6.2%2B1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/FRJWinhs/immersive_melodies-neoforge-0.6.4%2B1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "immersive-melodies",
-      "version": "YfqFZc6N",
+      "version": "FRJWinhs",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/6txNkua3/versions/cEaVxjXh/immersive_paintings-neoforge-1.21.1-0.7.6.jar",
+      "url": "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "immersive-paintings",
-      "version": "cEaVxjXh",
+      "version": "DeOfrXC3",
       "type": "mod"
     },
     {
@@ -374,15 +374,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/9nfaJPtX/versions/sRMMFgei/irons_lib-1.21.1-1.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/9nfaJPtX/versions/2K9JED9J/irons_lib-1.21.1-1.1.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "irons-lib",
-      "version": "sRMMFgei",
+      "version": "2K9JED9J",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/GpAw0Y4D/irons_spellbooks-1.21.1-3.15.6.jar",
+      "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/l6y70Qts/irons_spellbooks-1.21.1-3.16.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "irons-spells-n-spellbooks",
-      "version": "GpAw0Y4D",
+      "version": "l6y70Qts",
       "type": "mod"
     },
     {
@@ -392,9 +392,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/iiCpE7cU/jei-1.21.1-neoforge-19.27.0.343.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "jei",
-      "version": "YAcQ6elZ",
+      "version": "iiCpE7cU",
       "type": "mod"
     },
     {
@@ -416,9 +416,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/codAaoxh/versions/Puk24qHu/midnightlib-neoforge-1.9.2%2B1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/codAaoxh/versions/6Gv5jvTB/midnightlib-neoforge-1.9.3%2B1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "midnightlib",
-      "version": "Puk24qHu",
+      "version": "6Gv5jvTB",
       "type": "mod"
     },
     {
@@ -428,9 +428,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/RftyTwKR/moonlight-1.21-2.29.33-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/CO2fjXOk/moonlight-neoforge-1.21.1-3.0.18.jar?mr_download_reason=dependency&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "moonlight",
-      "version": "RftyTwKR",
+      "version": "CO2fjXOk",
       "type": "mod"
     },
     {
@@ -440,9 +440,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/FqqXQToo/notenoughanimations-neoforge-1.12.2-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/eYNogep3/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "not-enough-animations",
-      "version": "FqqXQToo",
+      "version": "eYNogep3",
       "type": "mod"
     },
     {
@@ -464,15 +464,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/QmW99EbW/particular-1.21.1-NeoForge-1.1.7.jar",
+      "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/gxO1XUMR/particular-1.21.1-NeoForge-1.5.5.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "particular-reforged",
-      "version": "QmW99EbW",
+      "version": "gxO1XUMR",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/i6fiqm5y/versions/XGtKmpbq/Platform-neoforge-1.21.1-1.3.jar",
+      "url": "https://cdn.modrinth.com/data/i6fiqm5y/versions/v7P0nBi2/Platform-neoforge-1.21.1-1.3.3.jar?mr_download_reason=dependency&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "platform",
-      "version": "XGtKmpbq",
+      "version": "v7P0nBi2",
       "type": "mod"
     },
     {
@@ -506,9 +506,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
+      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/Pv76GJbN/reeses-sodium-options-neoforge-2.0.5%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "reeses-sodium-options",
-      "version": "xAiCe6w8",
+      "version": "Pv76GJbN",
       "type": "mod"
     },
     {
@@ -560,21 +560,21 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/pFmw1eci/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/hXez7Tlk/sodium-extra-neoforge-0.8.7%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "sodium-extra",
-      "version": "pFmw1eci",
+      "version": "hXez7Tlk",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/TiDxy94j/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/tVr8WiwS/sophisticatedbackpacks-1.21.1-3.25.64.1919.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "sophisticated-backpacks",
-      "version": "TiDxy94j",
+      "version": "tVr8WiwS",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/M4Xj4ig7/sophisticatedcore-1.21.1-1.4.29.1752.jar",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/PaNVpd0p/sophisticatedcore-1.21.1-1.4.59.2032.jar?mr_download_reason=dependency&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "sophisticated-core",
-      "version": "M4Xj4ig7",
+      "version": "PaNVpd0p",
       "type": "mod"
     },
     {
@@ -608,9 +608,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/NuQNqCLy/supplementaries-1.21-3.5.34-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/53oYzPfG/supplementaries-neoforge-1.21.1-3.7.4.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "supplementaries",
-      "version": "NuQNqCLy",
+      "version": "53oYzPfG",
       "type": "mod"
     },
     {
@@ -626,15 +626,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/d6cSefpO/versions/6liLIVca/twilightdelight-3.1.1.jar",
+      "url": "https://cdn.modrinth.com/data/d6cSefpO/versions/HNXR3CwJ/twilightdelight-3.2.2.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "twilight-delight",
-      "version": "6liLIVca",
+      "version": "HNXR3CwJ",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/TJ1RI2mA/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+      "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/rUSWdBok/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "vanillabackport",
-      "version": "TJ1RI2mA",
+      "version": "rUSWdBok",
       "type": "mod"
     },
     {
@@ -644,21 +644,21 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/E0SdeAoH/versions/L5jTlkf7/wakes-1.21.1-NeoForge-1.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/E0SdeAoH/versions/jssHGPbO/wakes-1.21.1-NeoForge-1.3.6.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "wakes-reforged",
-      "version": "L5jTlkf7",
+      "version": "jssHGPbO",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CklXEjmp/xaerominimap-neoforge-1.21.1-25.3.13.jar",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/w8HSmbC3/xaerominimap-neoforge-1.21.1-26.1.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "xaeros-minimap",
-      "version": "CklXEjmp",
+      "version": "w8HSmbC3",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/XwL25au3/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/EupKCSdU/xaeroworldmap-neoforge-1.21.1-1.41.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "xaeros-world-map",
-      "version": "XwL25au3",
+      "version": "EupKCSdU",
       "type": "mod"
     },
     {
@@ -764,15 +764,15 @@
       "type": "mod"
     },
     {
-      "url" : "https://github.com/penguinencounter/Figura/releases/download/sodium-patched-jars-placeholder/figura-0.1.5+1.21.1-neoforge-patched.jar",
-      "name": "Figura Patched",
-      "version": "0.1.5",
+      "url" : "https://cdn.modrinth.com/data/s9gIPDom/versions/AvgeQoZm/figura-0.1.6%2B1.21.1-neoforge-mc.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "Figura",
+      "version": "AvgeQoZm",
       "type": "mod"
     },
     {
-      "url" : "https://www.curseforge.com/api/v1/mods/1293085/files/6790941/download",
+      "url" : "https://www.curseforge.com/minecraft/mc-mods/inventory-management-deluxe/download/8083722",
       "name": "Inventory Management Deluxe",
-      "version": "1293085",
+      "version": "1293086",
       "type": "mod"
     },
     {
@@ -788,7 +788,7 @@
       "type": "mod"
     },
     {
-      "url": "https://www.curseforge.com/api/v1/mods/404465/files/7746959/download",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/download/8226923",
       "name": "FTB Library",
       "version": "404465",
       "type": "mod"
@@ -802,7 +802,7 @@
     {
       "url": "https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/config/config.zip",
       "name": "Simple Custom Loading Screen Config",
-      "version": "2.0",
+      "version": "3.0",
       "type": "config",
       "directory": "config"
 
@@ -833,9 +833,9 @@
 
     },
     {
-      "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/OuwQlVxo/colorwheel-neoforge-1.2.4%2Bmc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/Uhs2KYar/colorwheel-neoforge-1.2.9%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "ColorWheel",
-      "version": "OuwQlVxo",
+      "version": "Uhs2KYar",
       "type": "mod"
     },
     {
@@ -881,15 +881,15 @@
       "type": "shader"
     },
     {
-      "url": "https://cdn.modrinth.com/data/eBzFuVTM/versions/p6zqgIqr/waterframes-NEOFORGE-mc1.21.1-v2.1.22.jar",
+      "url": "https://cdn.modrinth.com/data/eBzFuVTM/versions/ygogZrIE/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "WaterFrames",
-      "version": "p6zqgIqr",
+      "version": "ygogZrIE",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/fB0LmHnR/watermedia-2.1.37.jar",
+      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/PliJVHhd/watermedia-3.0.0.17.jar?mr_download_reason=dependency&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "WaterMedia",
-      "version": "fB0LmHnR",
+      "version": "PliJVHhd",
       "type": "mod"
     },
     {
@@ -899,21 +899,21 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/zuARv1N7/versions/CxgHhorV/vista-1.21-3.1.2-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/zuARv1N7/versions/MXTW4Bhw/vista-neoforge-1.21.1-4.4.14.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "Vista",
-      "version": "CxgHhorV",
+      "version": "MXTW4Bhw",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ObUu8hxJ/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/nLLornod/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "CreativeCore",
-      "version": "ObUu8hxJ",
+      "version": "nLLornod",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/P0w3IrnX/versions/rDtJujm2/watermedia_youtube_plugin-2.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/P0w3IrnX/versions/hUKYcxgB/watermedia_youtube_extension-3.0.0-beta.5.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "WMYT",
-      "version": "rDtJujm2",
+      "version": "hUKYcxgB",
       "type": "mod"
     },
     {
