@@ -410,7 +410,7 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/NGuyFOeE/sable-neoforge-1.21.1-2.0.0.jar",
+      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/NGuyFOeE/sable-neoforge-1.21.1-2.0.0.jar?mr_download_reason=standalone&mr_loader=neoforge",
       "name": "sable",
       "version": "NGuyFOeE",
       "type": "mod"
