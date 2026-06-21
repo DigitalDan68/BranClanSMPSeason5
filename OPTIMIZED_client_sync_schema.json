@@ -819,10 +819,10 @@
       "version": "aNSTW6yz",
       "type": "mod"
     },
-    {
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
-      "name": "IRIS",
-      "version": "t3ruzodq",
+     {
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "iris",
+      "version": "KduFYu4t",
       "type": "mod"
     },
     {

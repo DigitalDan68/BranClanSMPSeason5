@@ -296,12 +296,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
-      "name": "iris",
-      "version": "t3ruzodq",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/9nfaJPtX/versions/sRMMFgei/irons_lib-1.21.1-1.0.2.jar",
       "name": "irons-lib",
       "version": "sRMMFgei",
@@ -401,12 +395,6 @@
       "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/5A6wiMVf/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar?mr_download_reason=dependency&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "puzzles-lib",
       "version": "5A6wiMVf",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/zVaOQTh5/respackopts-4.14.0%2B1.21.1.forge.4.jar",
-      "name": "respackopts",
-      "version": "zVaOQTh5",
       "type": "mod"
     },
     {
