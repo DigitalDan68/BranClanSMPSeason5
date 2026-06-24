@@ -602,7 +602,7 @@
       "type": "mod"
     },
     {
-      "url" : "https://www.curseforge.com/minecraft/mc-mods/inventory-management-deluxe/download/8083722",
+      "url" : "https://www.curseforge.com/api/v1/mods/1293085/files/8083722/download",
       "name": "Inventory Management Deluxe",
       "version": "1293086-107",
       "type": "mod"
@@ -614,7 +614,7 @@
       "type": "mod"
     },
     {
-      "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/download/8226923",
+      "url": "https://www.curseforge.com/api/v1/mods/404465/files/7746959/download",
       "name": "FTB Library",
       "version": "404465",
       "type": "mod"
@@ -711,9 +711,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/I3mWDgfy/versions/oC0rXp8f/sable_player_ragdoll-1.21.1-0.7.0.jar?mr_download_reason=dependency",
+      "url": "https://cdn.modrinth.com/data/I3mWDgfy/versions/qixfTt58/sable_player_ragdoll-1.21.1-0.7.4.jar?mr_download_reason=standalone",
       "name": "Sable: Ragdolls",
-      "version": "oC0rXp8f",
+      "version": "qixfTt58",
       "type": "mod"
     },
     {
