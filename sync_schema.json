@@ -727,6 +727,12 @@
       "name": "Falling Tree Physics",
       "version": "GPvY262v",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/KcU1Mn0I/modernfix-neoforge-5.27.14%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "ModernFix",
+      "version": "KcU1Mn0I",
+      "type": "mod"
     }
   ]
 }

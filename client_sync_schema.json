@@ -963,6 +963,55 @@
       "name": "Falling Tree Physics",
       "version": "GPvY262v",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "Bad Optimizations",
+      "version": "S2qthD5S",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/H80QSt2v/versions/aNSTW6yz/fastitems-neoforge-1.1.0-neoforge%2B1.21.jar",
+      "name": "Fast Items",
+      "version": "aNSTW6yz",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/KcU1Mn0I/modernfix-neoforge-5.27.14%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "ModernFix",
+      "version": "KcU1Mn0I",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/QdG47OkI/versions/X2U8ceG9/modelfix-1.21-1.10.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "Model Gap Fix",
+      "version": "X2U8ceG9",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1-sources.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "sodiumDynamicLights",
+      "version": "XI0WLXdn",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1-sources.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "Sodium Options API",
+      "version": "lrsX3TMS",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/kAbmpvF3/LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "Leaves Be Gone",
+      "version": "kAbmpvF3",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Yg1VT27P/versions/iPZbtcZJ/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1-sources.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "SodiumOptionsModCompat",
+      "version": "iPZbtcZJ",
+      "type": "mod"
     }
+    
   ]
 }
