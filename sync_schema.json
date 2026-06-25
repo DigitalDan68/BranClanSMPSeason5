@@ -5,9 +5,13 @@
       "type": "remove",
       "pattern": "^mods/oldmod-.*\\.jar$",
       "path": "."
+    },
+    {
+      "type": "rename",
+      "pattern": "create-jetpack\\.jar$",
+      "result": "oldmod-create-jetpack.jar",
+      "path": "."
     }
-
-
   ],
   
   "sync": [
@@ -743,18 +747,6 @@
       "name": "StuffandAdditions",
       "version": "5xWzE6Yk",
       "mod": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/TIo1UXXV/versions/JaJl8XSj/more-enchantment-info-0.4.2.jar?mr_download_reason=standalone",
-      "name": "oldmod-More Enchantment Info",
-      "version": "JaJl8XSj",
-      "mod": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/4Ndp4d21/create_jetpack-forge-5.1.2.jar",
-      "name": "oldmod-create-jetpack",
-      "version": "4Ndp4d21",
-      "type": "mod"
     }
   ]
 }
