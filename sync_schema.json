@@ -2,6 +2,11 @@
   "sync_version": 3,
   "sync": [
     {
+      "type": "remove",
+      "pattern": "^mods/oldmod-.*\\.jar$",
+      "path": "."
+    },
+    {
       "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Fb55Fgjz/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
       "name": "accessories",
       "version": "Fb55Fgjz",
@@ -739,6 +744,12 @@
       "name": "More Enchantment Info",
       "version": "JaJl8XSj",
       "mod": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/4Ndp4d21/create_jetpack-forge-5.1.2.jar",
+      "name": "oldmod-create-jetpack",
+      "version": "4Ndp4d21",
+      "type": "mod"
     }
   ]
 }
