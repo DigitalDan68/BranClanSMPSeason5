@@ -1,11 +1,16 @@
 {
   "sync_version": 3,
-  "sync": [
+  "modify": [
     {
       "type": "remove",
       "pattern": "^mods/oldmod-.*\\.jar$",
       "path": "."
-    },
+    }
+
+
+  ],
+  
+  "sync": [
     {
       "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Fb55Fgjz/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
       "name": "accessories",
