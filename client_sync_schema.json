@@ -1016,6 +1016,12 @@
       "name": "oldmod-create-jetpack",
       "version": "4Ndp4d21",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/TIo1UXXV/versions/JaJl8XSj/more-enchantment-info-0.4.2.jar?mr_download_reason=standalone",
+      "name": "oldmod-More Enchantment Info",
+      "version": "JaJl8XSj",
+      "mod": "mod"
     }
     
   ]
