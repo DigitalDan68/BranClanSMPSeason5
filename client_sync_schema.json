@@ -989,21 +989,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1-sources.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "Sodium Options API",
-      "version": "lrsX3TMS",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/kAbmpvF3/LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "Leaves Be Gone",
       "version": "kAbmpvF3",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/Yg1VT27P/versions/iPZbtcZJ/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1-sources.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "SodiumOptionsModCompat",
-      "version": "iPZbtcZJ",
       "type": "mod"
     },
     {
