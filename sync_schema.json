@@ -182,12 +182,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/4Ndp4d21/create_jetpack-forge-5.1.2.jar",
-      "name": "create-jetpack",
-      "version": "4Ndp4d21",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/sH9tXU9f/versions/7oNrI3y9/createliquidfuel-2.1.1-1.21.1.jar",
       "name": "create-liquid-fuel",
       "version": "7oNrI3y9",
@@ -733,6 +727,12 @@
       "name": "ModernFix",
       "version": "KcU1Mn0I",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/aq9qUUQG/versions/5xWzE6Yk/create-stuff-additions1.21.1_v2.1.4a.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "StuffandAdditions",
+      "version": "5xWzE6Yk",
+      "mod": "mod"
     }
   ]
 }
