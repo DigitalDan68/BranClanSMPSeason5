@@ -1005,6 +1005,18 @@
       "name": "SodiumOptionsModCompat",
       "version": "iPZbtcZJ",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lMYIHZNH/versions/QWqEdWHy/createbetterfps-1.21.1-1.1.4.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "CreateBetterFPS",
+      "version": "QWqEdWHy",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/RSeLon5O/versions/2QF4NhZD/particle_core-0.3.3%2B1.21%2Bneoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "Particle Core",
+      "version": "2QF4NhZD",
+      "type": "mod"
     }
     
   ]
