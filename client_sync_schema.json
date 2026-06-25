@@ -989,12 +989,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1-sources.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "sodiumDynamicLights",
-      "version": "XI0WLXdn",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1-sources.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "Sodium Options API",
       "version": "lrsX3TMS",
