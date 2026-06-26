@@ -27,6 +27,11 @@
       "type": "remove",
       "pattern": "^usercache\\.json$",
       "path": "."
+    },
+    {
+      "type": "remove",
+      "pattern": "^mods/.index/create-jetpack.pw\\.toml$",
+      "path": "."
     }
 
 
