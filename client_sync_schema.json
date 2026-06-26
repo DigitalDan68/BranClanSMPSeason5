@@ -15,12 +15,17 @@
     },
     {
       "type": "remove",
-      "pattern": "^mods/create-jetpack-4Ndp4d21\\.jar$",
+      "pattern": "^mods/$create-jetpack-4Ndp4d21\\.jar$",
       "path": "."
     },
     {
       "type": "remove",
-      "pattern": "^mods/oldmod-create-jetpack-4Ndp4d21\\.jar$",
+      "pattern": "^mods/$oldmod-create-jetpack-4Ndp4d21\\.jar$",
+      "path": "."
+    },
+    {
+      "type": "remove",
+      "pattern": "^mods/create-jetpack-4Ndp4d21\\.jar$",
       "path": "."
     },
     {
