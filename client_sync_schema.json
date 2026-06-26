@@ -3,15 +3,25 @@
   "modify": [
     {
       "type": "remove",
-      "pattern": "^mods/oldmod-.*\\.jar$",
-      "path": "."
+      "pattern": "oldmod-.*\\.jar$",
+      "path": ".*\\mods"
     },
 
     {
       "type": "rename",
       "pattern": "create-jetpack\\.jar$",
       "result": "oldmod-create-jetpack.jar",
-      "path": "."
+      "path": ".*\\mods"
+    },
+    {
+      "type": "remove",
+      "pattern": "^create-jetpack-4Ndp4d21\\.jar$",
+      "path": ".*\\mods.*"
+    },
+    {
+      "type": "remove",
+      "pattern": "^oldmod-create-jetpack-4Ndp4d21\\.jar$",
+      "path": ".*\\mods.*"
     },
     {
       "type": "remove",
@@ -26,11 +36,6 @@
     {
       "type": "remove",
       "pattern": "^usercache\\.json$",
-      "path": "."
-    },
-    {
-      "type": "remove",
-      "pattern": "^mods/.index/create-jetpack.pw\\.toml$",
       "path": "."
     }
 
