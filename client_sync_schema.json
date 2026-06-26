@@ -2,24 +2,6 @@
   "sync_version": 3,
   "sync": [
     {
-      "url": "https://githubusercontent.com",
-      "name":"oldmod-create-jetpack-4Ndp4d21.jar",
-      "version": "1",
-      "type": "mod"
-    },
-    {
-      "url": "https://githubusercontent.com",
-      "name":"create-jetpack-4Ndp4d21.jar",
-      "version": "1",
-      "type": "mod"
-    },
-    {
-      "url": "https://githubusercontent.com",
-      "name":"oldmod-create-jetpack-4Ndp4d21.jar",
-      "version": "1",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Fb55Fgjz/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
       "name": "accessories",
       "version": "Fb55Fgjz",
