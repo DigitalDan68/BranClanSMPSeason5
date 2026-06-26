@@ -4,24 +4,24 @@
     {
       "type": "remove",
       "pattern": "oldmod-.*\\.jar$",
-      "path": ".*\\mods"
+      "path": "."
     },
 
     {
       "type": "rename",
       "pattern": "create-jetpack\\.jar$",
       "result": "oldmod-create-jetpack.jar",
-      "path": ".*\\mods"
+      "path": "."
     },
     {
       "type": "remove",
-      "pattern": "^create-jetpack-4Ndp4d21\\.jar$",
-      "path": ".*\\mods.*"
+      "pattern": "^mods/create-jetpack-4Ndp4d21.*\\.jar$",
+      "path": "."
     },
     {
       "type": "remove",
-      "pattern": "^oldmod-create-jetpack-4Ndp4d21\\.jar$",
-      "path": ".*\\mods.*"
+      "pattern": "^mods/oldmod-create-jetpack-4Ndp4d21.*\\.jar$",
+      "path": "."
     },
     {
       "type": "remove",
