@@ -3,44 +3,44 @@
   "modify": [
     {
       "type": "rename",
-      "pattern": "^mods/(oldmod-.*\\.jar)$",
-      "result": "$1.old",
+      "pattern": ".*oldmod-.*\\.jar$",
+      "result": "oldmod-deactivated.jar.old",
       "path": "."
     },
     {
       "type": "rename",
-      "pattern": "^mods/create-jetpack\\.jar$",
+      "pattern": ".*create-jetpack\\.jar$",
       "result": "oldmod-create-jetpack.jar",
       "path": "."
     },
     {
       "type": "rename",
-      "pattern": "^mods/oldmod-create-jetpack-4Ndp4d21\\.jar$",
+      "pattern": ".*oldmod-create-jetpack-4Ndp4d21\\.jar$",
       "result": "oldmod-create-jetpack-4Ndp4d21.jar.old",
       "path": "."
     },
     {
       "type": "rename",
-      "pattern": "^mods/create-jetpack-4Ndp4d21\\.jar$",
+      "pattern": ".*create-jetpack-4Ndp4d21\\.jar$",
       "result": "create-jetpack-4Ndp4d21.jar.old",
       "path": "."
     },
     {
       "type": "rename",
-      "pattern": "^config/(create_jetpack-common\\.toml)$",
-      "result": "$1.old",
+      "pattern": ".*create_jetpack-common\\.toml$",
+      "result": "create_jetpack-common.toml.old",
       "path": "."
     },
     {
       "type": "rename",
-      "pattern": "^config/(create_jetpack-client\\.toml)$",
-      "result": "$1.old",
+      "pattern": ".*create_jetpack-client\\.toml$",
+      "result": "create_jetpack-client.toml.old",
       "path": "."
     },
     {
       "type": "rename",
-      "pattern": "^(usercache\\.json)$",
-      "result": "$1.old",
+      "pattern": ".*usercache\\.json$",
+      "result": "usercache.json.old",
       "path": "."
     }
 
