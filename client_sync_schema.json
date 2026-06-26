@@ -1,53 +1,24 @@
 {
   "sync_version": 3,
-  "modify": [
-    {
-      "type": "rename",
-      "pattern": ".*oldmod-.*\\.jar$",
-      "result": "oldmod-deactivated.jar.old",
-      "path": "."
-    },
-    {
-      "type": "rename",
-      "pattern": ".*create-jetpack\\.jar$",
-      "result": "oldmod-create-jetpack.jar",
-      "path": "."
-    },
-    {
-      "type": "rename",
-      "pattern": ".*oldmod-create-jetpack-4Ndp4d21\\.jar$",
-      "result": "oldmod-create-jetpack-4Ndp4d21.jar.old",
-      "path": "."
-    },
-    {
-      "type": "rename",
-      "pattern": ".*create-jetpack-4Ndp4d21\\.jar$",
-      "result": "create-jetpack-4Ndp4d21.jar.old",
-      "path": "."
-    },
-    {
-      "type": "rename",
-      "pattern": ".*create_jetpack-common\\.toml$",
-      "result": "create_jetpack-common.toml.old",
-      "path": "."
-    },
-    {
-      "type": "rename",
-      "pattern": ".*create_jetpack-client\\.toml$",
-      "result": "create_jetpack-client.toml.old",
-      "path": "."
-    },
-    {
-      "type": "rename",
-      "pattern": ".*usercache\\.json$",
-      "result": "usercache.json.old",
-      "path": "."
-    }
-
-
-  ],
-  
   "sync": [
+    {
+      "url": "https://githubusercontent.com",
+      "name":"oldmod-create-jetpack-4Ndp4d21.jar",
+      "version": "1",
+      "type": "mod"
+    },
+    {
+      "url": "https://githubusercontent.com",
+      "name":"create-jetpack-4Ndp4d21.jar",
+      "version": "1",
+      "type": "mod"
+    },
+    {
+      "url": "https://githubusercontent.com",
+      "name":"oldmod-create-jetpack-4Ndp4d21.jar",
+      "version": "1",
+      "type": "mod"
+    },
     {
       "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Fb55Fgjz/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
       "name": "accessories",
@@ -1051,13 +1022,7 @@
       "url": "https://cdn.modrinth.com/data/aq9qUUQG/versions/5xWzE6Yk/create-stuff-additions1.21.1_v2.1.4a.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "StuffandAdditions",
       "version": "5xWzE6Yk",
-      "mod": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/4Ndp4d21/create_jetpack-forge-5.1.2.jar",
-      "name": "oldmod-create-jetpack",
-      "version": "4Ndp4d21",
       "type": "mod"
-    }  
+    }
   ]
 }
