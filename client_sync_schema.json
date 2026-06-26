@@ -12,6 +12,16 @@
       "pattern": "create-jetpack\\.jar$",
       "result": "oldmod-create-jetpack.jar",
       "path": "."
+    },
+    {
+      "type": "remove",
+      "pattern": "^config/create_jetpack-common.toml",
+      "path": "."
+    },
+    {
+      "type": "remove",
+      "pattern": "^config/create_jetpack-client.toml",
+      "path": "."
     }
 
 
