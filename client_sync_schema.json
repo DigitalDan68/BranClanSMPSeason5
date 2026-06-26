@@ -2,8 +2,9 @@
   "sync_version": 3,
   "modify": [
     {
-      "type": "remove",
-      "pattern": "^mods/oldmod-.*\\.jar$",
+      "type": "rename",
+      "pattern": "^mods/(oldmod-.*\\.jar)$",
+      "result": "$1.old",
       "path": "."
     },
     {
@@ -13,28 +14,33 @@
       "path": "."
     },
     {
-      "type": "remove",
+      "type": "rename",
       "pattern": "^mods/oldmod-create-jetpack-4Ndp4d21\\.jar$",
+      "result": "oldmod-create-jetpack-4Ndp4d21.jar.old",
       "path": "."
     },
     {
-      "type": "remove",
+      "type": "rename",
       "pattern": "^mods/create-jetpack-4Ndp4d21\\.jar$",
+      "result": "create-jetpack-4Ndp4d21.jar.old",
       "path": "."
     },
     {
-      "type": "remove",
-      "pattern": "^config/create_jetpack-common\\.toml$",
+      "type": "rename",
+      "pattern": "^config/(create_jetpack-common\\.toml)$",
+      "result": "$1.old",
       "path": "."
     },
     {
-      "type": "remove",
-      "pattern": "^config/create_jetpack-client\\.toml$",
+      "type": "rename",
+      "pattern": "^config/(create_jetpack-client\\.toml)$",
+      "result": "$1.old",
       "path": "."
     },
     {
-      "type": "remove",
-      "pattern": "^usercache\\.json$",
+      "type": "rename",
+      "pattern": "^(usercache\\.json)$",
+      "result": "$1.old",
       "path": "."
     }
 
