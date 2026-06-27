@@ -248,12 +248,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/g68FsgfE/DistantHorizons-3.1.2-b-1.21.1-fabric-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "distanthorizons",
-      "version": "KkaaQtTD",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/T238FZpQ/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
       "name": "dynamic-fps",
       "version": "T238FZpQ",
