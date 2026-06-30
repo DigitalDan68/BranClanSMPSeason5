@@ -757,6 +757,36 @@
       "name": "StuffandAdditions",
       "version": "5xWzE6Yk",
       "mod": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/1426984/files/8333129/download",
+      "name": "Hose Connectors",
+      "version": "1_1_8",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/AEMRNsNS/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "Ultimate Factory",
+      "version": "AEMRNsNS",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "Big Cannons",
+      "version": "bOiDu0LS",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
+      "name": "RDL",
+      "version": "hZ6B2Z0x",
+      "type": "mod"
+    },
+    {
+      "url": "https://github.com/CosmonauticsTeam/Create-Cosmonautics/releases/download/v1.3.3/rocketnautics-1.3.3.jar",
+      "name": "Cosmonautrics",
+      "version": "1_3_3",
+      "type": "mod"
     }
   ]
 }
