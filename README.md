@@ -24,9 +24,7 @@ If you have any question or concerns please ask me directly or submit an issue o
 
 Thank you and I hope everyone enjoys!
 
-## Performance Issues
-
-## Setting recommendations PC:
+## Setting recommendations PC (Performance issues):
 ### Fps: Unlimited
 ### V Sync: OFF
 ### Mipmap levels: 2x
