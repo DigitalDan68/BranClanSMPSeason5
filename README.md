@@ -24,15 +24,9 @@ If you have any question or concerns please ask me directly or submit an issue o
 
 Thank you and I hope everyone enjoys!
 
-## Performance Issues | Steam Deck Installation 
+## Performance Issues
 
-### PC Sync Schema Link:
-    https://raw.githubusercontent.com/DigitalDan68/BranClanSMPSeason5/refs/heads/main/OPTIMIZED_client_sync_schema.json
-
-### Steam Deck Schema Link:
-    https://github.com/DigitalDan68/BranClanSMPSeason5/raw/refs/heads/main/SteamDeck_client_sync_schema.json
-
-## Setting recommendations PC & Steam Deck:
+## Setting recommendations PC:
 ### Fps: Unlimited
 ### V Sync: OFF
 ### Mipmap levels: 2x
