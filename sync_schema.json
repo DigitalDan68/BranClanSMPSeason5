@@ -787,6 +787,24 @@
       "name": "Cosmonautrics",
       "version": "1_3_3",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/hB899VmG/versions/KZR7AUbh/exposure-neoforge-1.21.1-1.9.18.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "Exposure",
+      "version": "KZR7AUbh",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/l3tS9WUS/versions/SIZaJpOq/TalkBalloons-neoforge-1.5.4%2B1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "Talk Balloons",
+      "version": "SIZaJpOq",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/1vrSzlao/versions/j7m3xyCe/KotlinLangForge-2.12.1-k2.4.0-3.0%2Bneoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "name": "KotlinLangForge",
+      "version": "j7m3xyCe",
+      "type": "mod"
     }
   ]
 }
