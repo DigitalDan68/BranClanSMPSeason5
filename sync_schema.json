@@ -807,9 +807,9 @@
       "type": "mod"
     },
     {
-      "url": "https://www.curseforge.com/api/v1/mods/1557241/files/8186973/download",
+      "url": "https://github.com/DigitalDan68/CreateModRollerPloughFix/releases/download/v1.0.10/create_mod_roller_plough_fix-1.0.10.jar",
       "name": "CreateAeroMechanicalRollerPatch",
-      "version": "8186973",
+      "version": "1.0.10",
       "type": "mod"
     }
   ]
