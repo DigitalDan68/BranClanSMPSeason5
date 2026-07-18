@@ -805,6 +805,12 @@
       "name": "KotlinLangForge",
       "version": "j7m3xyCe",
       "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/1557241/files/8186973/download",
+      "name": "CreateAeroMechanicalRollerPatch",
+      "version": "8186973",
+      "type": "mod"
     }
   ]
 }
