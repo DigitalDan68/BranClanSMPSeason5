@@ -356,9 +356,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/9nfaJPtX/versions/iQWDmCnb/irons_lib-26.1.2-2.1.0.jar?mr_download_reason=standalone",
+      "url": "https://cdn.modrinth.com/data/9nfaJPtX/versions/sQyzhxuH/irons_lib-1.21.1-2.1.0.jar?mr_download_reason=standalone",
       "name": "irons-lib",
-      "version": "iQWDmCnb",
+      "version": "sQyzhxuH",
       "type": "mod"
     },
     {
@@ -530,9 +530,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/tyVnEa75/sliceanddice-forge-4.2.4.jar",
+      "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/cV2GZBSJ/sliceanddice-neoforge-4.3.2.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "slice-and-dice",
-      "version": "tyVnEa75",
+      "version": "cV2GZBSJ",
       "type": "mod"
     },
     {
