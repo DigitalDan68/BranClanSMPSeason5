@@ -16,7 +16,8 @@ Simple Mod Sync will ask you to provide a link for a Schema.json file.
 
 This will download all the mods as you will see a progress bar at the top. Once everything is downloaded please restart the game.
 
-## The Server IP is: branclansmp.godlike.club
+## The Server IP is: 
+    branclansmp.lucciserver.org
 
 If you have any question or concerns please ask me directly or submit an issue or pull request on the GitHub! 
 
