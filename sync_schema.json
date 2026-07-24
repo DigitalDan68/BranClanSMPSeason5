@@ -786,6 +786,12 @@
       "name": "CreateAeroMechanicalRollerPatch",
       "version": "1.0.10",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/7KCNsGPM/versions/CP41sDUo/create-gunsmithing-1.21.1-1.4.8.jar",
+      "name": "Create: Gunsmithing",
+      "version": "CP41sDUo",
+      "type": "mod"
     }
   ]
 }
