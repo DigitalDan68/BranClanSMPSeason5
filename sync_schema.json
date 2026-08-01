@@ -608,12 +608,6 @@
       "type": "mod"
     },
     {
-      "url": "https://www.curseforge.com/api/v1/mods/404465/files/7746959/download",
-      "name": "FTB Library",
-      "version": "404465",
-      "type": "mod"
-    },
-    {
       "url": "https://www.curseforge.com/api/v1/mods/410811/files/7608733/download",
       "name": "FTB Essentials",
       "version": "410811",
@@ -785,6 +779,12 @@
       "url": "https://github.com/DigitalDan68/CreateModRollerPloughFix/releases/download/v1.0.10/create_mod_roller_plough_fix-1.0.10.jar",
       "name": "CreateAeroMechanicalRollerPatch",
       "version": "1.0.10",
+      "type": "mod"
+    },
+    {
+      "url": "https://edge.forgecdn.net/files/8519/365/ftb-library-neoforge-2101.1.34.jar",
+      "name": "FTB Library",
+      "version": "8519365",
       "type": "mod"
     }
   ]

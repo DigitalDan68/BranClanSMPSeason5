@@ -746,33 +746,27 @@
       "type": "mod"
     },
     {
-      "url" : "https://cdn.modrinth.com/data/s9gIPDom/versions/AvgeQoZm/figura-0.1.6%2B1.21.1-neoforge-mc.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+      "url": "https://cdn.modrinth.com/data/s9gIPDom/versions/AvgeQoZm/figura-0.1.6%2B1.21.1-neoforge-mc.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "Figura",
       "version": "AvgeQoZm",
       "type": "mod"
     },
     {
-      "url" : "https://www.curseforge.com/api/v1/mods/1293085/files/8083722/download",
+      "url": "https://www.curseforge.com/api/v1/mods/1293085/files/8083722/download",
       "name": "Inventory Management Deluxe",
       "version": "1293086-107",
       "type": "mod"
     },
     {
-      "url" : "https://www.curseforge.com/api/v1/mods/227639/files/7797302/download",
+      "url": "https://www.curseforge.com/api/v1/mods/227639/files/7797302/download",
       "name": "Twilight Forest",
       "version": "227639",
       "type": "mod"
     },
     {
-      "url" : "https://cdn.modrinth.com/data/Bi8o4aLw/versions/G5bmC36h/SimpleCustomEarlyLoading-2.2-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/Bi8o4aLw/versions/G5bmC36h/SimpleCustomEarlyLoading-2.2-neoforge.jar",
       "name": "Simple Custom Early Loading Screen",
       "version": "G5bmC36h",
-      "type": "mod"
-    },
-    {
-      "url": "https://www.curseforge.com/api/v1/mods/404465/files/7746959/download",
-      "name": "FTB Library",
-      "version": "404465",
       "type": "mod"
     },
     {
@@ -787,7 +781,6 @@
       "version": "3.0",
       "type": "config",
       "directory": "config"
-
     },
     {
       "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar",
@@ -812,7 +805,6 @@
       "name": "Create: Propulsion Simulated",
       "version": "hTnJ29I0",
       "type": "mod"
-
     },
     {
       "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/Uhs2KYar/colorwheel-neoforge-1.2.9%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
@@ -1052,6 +1044,12 @@
       "url": "https://github.com/DigitalDan68/CreateModRollerPloughFix/releases/download/v1.0.10/create_mod_roller_plough_fix-1.0.10.jar",
       "name": "CreateAeroMechanicalRollerPatch",
       "version": "1.0.10",
+      "type": "mod"
+    },
+    {
+      "url": "https://edge.forgecdn.net/files/8519/365/ftb-library-neoforge-2101.1.34.jar",
+      "name": "FTB Library",
+      "version": "8519365",
       "type": "mod"
     }
   ]
