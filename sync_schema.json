@@ -798,6 +798,12 @@
       "name": "BlueMap",
       "version": "8iJcPOHJ",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/W9e7rf1y/versions/B1EqQDIC/create_bluemap-1.1.1.jar",
+      "name": "Create BlueMap",
+      "version": "B1EqQDIC",
+      "type": "mod"
     }
   ]
 }
