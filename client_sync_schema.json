@@ -921,12 +921,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
-      "name": "iris",
-      "version": "t3ruzodq",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/FHd2LYlQ/sophisticatedbackpacks-1.21.1-3.25.73.2020.jar",
       "name": "sophisticated-backpacks",
       "version": "FHd2LYlQ",
@@ -1050,6 +1044,12 @@
       "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/N67LJgrN/sliceanddice-4.3.3-neoforge.jar",
       "name": "slice-and-dice",
       "version": "N67LJgrN",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/oXIoDcGE/iris-neoforge-1.8.8%2Bmc1.21.1.jar",
+      "name": "iris",
+      "version": "oXIoDcGE",
       "type": "mod"
     }
   ]
