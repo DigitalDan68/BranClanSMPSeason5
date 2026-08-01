@@ -786,6 +786,12 @@
       "name": "slice-and-dice",
       "version": "N67LJgrN",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
+      "name": "spark",
+      "version": "v5qtqRQi",
+      "type": "mod"
     }
   ]
 }
