@@ -614,12 +614,6 @@
       "type": "mod"
     },
     {
-      "url": "https://www.curseforge.com/api/v1/mods/410811/files/7608733/download",
-      "name": "FTB Essentials",
-      "version": "410811",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar",
       "name": "Polymorph",
       "version": "VEburL70",
@@ -785,6 +779,12 @@
       "url": "https://github.com/DigitalDan68/CreateModRollerPloughFix/releases/download/v1.0.10/create_mod_roller_plough_fix-1.0.10.jar",
       "name": "CreateAeroMechanicalRollerPatch",
       "version": "1.0.10",
+      "type": "mod"
+    },
+    {
+      "url": "https://edge.forgecdn.net/files/8442/866/ftb-essentials-neoforge-2101.1.10.jar",
+      "name": "FTB Essentials",
+      "version": "8442866",
       "type": "mod"
     }
   ]
