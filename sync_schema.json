@@ -590,12 +590,6 @@
       "type": "mod"
     },
     {
-      "url": "https://www.curseforge.com/api/v1/mods/1515836/files/7981917/download",
-      "name": "Boids",
-      "version": "1.0.2",
-      "type": "mod"
-    },
-    {
       "url": "https://www.curseforge.com/api/v1/mods/1293085/files/8083722/download",
       "name": "Inventory Management Deluxe",
       "version": "1293086-107",
@@ -785,6 +779,12 @@
       "url": "https://github.com/DigitalDan68/CreateModRollerPloughFix/releases/download/v1.0.10/create_mod_roller_plough_fix-1.0.10.jar",
       "name": "CreateAeroMechanicalRollerPatch",
       "version": "1.0.10",
+      "type": "mod"
+    },
+    {
+      "url": "https://edge.forgecdn.net/files/8495/512/boids-1.21.1-NeoForge-1.0.5.jar",
+      "name": "Boids",
+      "version": "8495512",
       "type": "mod"
     }
   ]
