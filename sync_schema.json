@@ -338,12 +338,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/cvwb1lxE/moonlight-neoforge-1.21.1-3.1.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "moonlight",
-      "version": "cvwb1lxE",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/yM94ont6/versions/alR8L7vF/notenoughcrashes-neoforge-4.4.9%2B1.21.1.jar",
       "name": "notenoughcrashes",
       "version": "alR8L7vF",
@@ -785,6 +779,12 @@
       "url": "https://github.com/DigitalDan68/CreateModRollerPloughFix/releases/download/v1.0.10/create_mod_roller_plough_fix-1.0.10.jar",
       "name": "CreateAeroMechanicalRollerPatch",
       "version": "1.0.10",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/CitoQHqE/moonlight-neoforge-1.21.1-3.3.0.jar",
+      "name": "moonlight",
+      "version": "CitoQHqE",
       "type": "mod"
     }
   ]
