@@ -792,6 +792,12 @@
       "name": "spark",
       "version": "v5qtqRQi",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/8iJcPOHJ/bluemap-5.7-neoforge.jar",
+      "name": "BlueMap",
+      "version": "8iJcPOHJ",
+      "type": "mod"
     }
   ]
 }
