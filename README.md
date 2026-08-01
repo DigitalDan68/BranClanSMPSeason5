@@ -19,6 +19,9 @@ This will download all the mods as you will see a progress bar at the top. Once 
 ## The Server IP is: 
     branclansmp.lucciserver.org
 
+## Blue Map:
+    https://map.lucciserver.org/
+
 If you have any question or concerns please ask me directly or submit an issue or pull request on the GitHub! 
 
 [GitHub Link](https://github.com/DigitalDan68/BranClanSMPSeason5/tree/main)
