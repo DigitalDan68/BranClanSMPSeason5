@@ -804,6 +804,12 @@
       "name": "Create BlueMap",
       "version": "B1EqQDIC",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/TaJOfqZg/versions/mhqxH24J/createentityaddon-1.2.1-5.22%2B.jar",
+      "name": "BluemapCreateEntityAddon",
+      "version": "mhqxH24J",
+      "type": "mod"
     }
   ]
 }
