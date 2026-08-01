@@ -98,12 +98,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/pJGcKPh1/versions/Ix4uAd2i/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
-      "name": "corpse-x-curios-api-compat",
-      "version": "Ix4uAd2i",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
       "name": "create",
       "version": "UjX6dr61",
@@ -212,12 +206,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/dAxle9F7/forgified-fabric-api-0.116.14%2B2.3.0%2B1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "forgified-fabric-api",
-      "version": "dAxle9F7",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
       "name": "fzzy-config",
       "version": "MAPG6cXE",
@@ -284,12 +272,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/NrSebcsG/kotlinforforge-5.11.0-all.jar",
-      "name": "kotlin-for-forge",
-      "version": "NrSebcsG",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/U2XgYJpS/libjf-3.17.6%2Bforge.jar",
       "name": "libjf",
       "version": "U2XgYJpS",
@@ -299,18 +281,6 @@
       "url": "https://cdn.modrinth.com/data/codAaoxh/versions/6Gv5jvTB/midnightlib-neoforge-1.9.3%2B1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "midnightlib",
       "version": "6Gv5jvTB",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/9leXt4A5/versions/Es84N2XL/monolib-neoforge-1.21.1-4.0.2.jar",
-      "name": "monolib",
-      "version": "Es84N2XL",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/cvwb1lxE/moonlight-neoforge-1.21.1-3.1.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "moonlight",
-      "version": "cvwb1lxE",
       "type": "mod"
     },
     {
@@ -383,12 +353,6 @@
       "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/Ic73EcJ6/SimplyTooltips-neoforge-0.1.3.jar",
       "name": "simply-tooltips",
       "version": "Ic73EcJ6",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/cV2GZBSJ/sliceanddice-neoforge-4.3.2.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "slice-and-dice",
-      "version": "cV2GZBSJ",
       "type": "mod"
     },
     {
@@ -530,12 +494,6 @@
       "type": "mod"
     },
     {
-      "url": "https://www.curseforge.com/api/v1/mods/1515836/files/7981917/download",
-      "name": "Boids",
-      "version": "1.0.2",
-      "type": "mod"
-    },
-    {
       "url": "https://www.curseforge.com/api/v1/mods/1293085/files/8083722/download",
       "name": "Inventory Management Deluxe",
       "version": "1293086-107",
@@ -545,18 +503,6 @@
       "url": "https://www.curseforge.com/api/v1/mods/227639/files/7797302/download",
       "name": "Twilight Forest",
       "version": "227639",
-      "type": "mod"
-    },
-    {
-      "url": "https://www.curseforge.com/api/v1/mods/404465/files/7746959/download",
-      "name": "FTB Library",
-      "version": "404465",
-      "type": "mod"
-    },
-    {
-      "url": "https://www.curseforge.com/api/v1/mods/410811/files/7608733/download",
-      "name": "FTB Essentials",
-      "version": "410811",
       "type": "mod"
     },
     {
@@ -587,12 +533,6 @@
       "url": "https://cdn.modrinth.com/data/dGGbEGoV/versions/fYHfGRbK/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
       "name": "WaterVison",
       "version": "fYHfGRbK",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ObUu8hxJ/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
-      "name": "CreativeCore",
-      "version": "ObUu8hxJ",
       "type": "mod"
     },
     {
@@ -650,12 +590,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZkPOaQLQ/modernfix-neoforge-5.27.15%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "ModernFix",
-      "version": "ZkPOaQLQ",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/aq9qUUQG/versions/5xWzE6Yk/create-stuff-additions1.21.1_v2.1.4a.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "StuffandAdditions",
       "version": "5xWzE6Yk",
@@ -701,12 +635,6 @@
       "url": "https://cdn.modrinth.com/data/l3tS9WUS/versions/SIZaJpOq/TalkBalloons-neoforge-1.5.4%2B1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "Talk Balloons",
       "version": "SIZaJpOq",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/1vrSzlao/versions/j7m3xyCe/KotlinLangForge-2.12.1-k2.4.0-3.0%2Bneoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "KotlinLangForge",
-      "version": "j7m3xyCe",
       "type": "mod"
     },
     {
@@ -785,6 +713,78 @@
       "url": "https://cdn.modrinth.com/data/zuARv1N7/versions/r6IGPoXU/vista-neoforge-1.21.1-5.2.5.jar",
       "name": "Vista",
       "version": "r6IGPoXU",
+      "type": "mod"
+    },
+    {
+      "url": "https://edge.forgecdn.net/files/8495/512/boids-1.21.1-NeoForge-1.0.5.jar",
+      "name": "Boids",
+      "version": "8495512",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/pJGcKPh1/versions/zrZBuGfY/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+      "name": "corpse-x-curios-api-compat",
+      "version": "zrZBuGfY",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/nLLornod/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "name": "CreativeCore",
+      "version": "nLLornod",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/L9bk5uA9/forgified-fabric-api-0.116.15%2B2.3.1%2B1.21.1.jar",
+      "name": "forgified-fabric-api",
+      "version": "L9bk5uA9",
+      "type": "mod"
+    },
+    {
+      "url": "https://edge.forgecdn.net/files/8442/866/ftb-essentials-neoforge-2101.1.10.jar",
+      "name": "FTB Essentials",
+      "version": "8442866",
+      "type": "mod"
+    },
+    {
+      "url": "https://edge.forgecdn.net/files/8519/365/ftb-library-neoforge-2101.1.34.jar",
+      "name": "FTB Library",
+      "version": "8519365",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar",
+      "name": "kotlin-for-forge",
+      "version": "uhJhCT7X",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/1vrSzlao/versions/318K66ba/KotlinLangForge-2.12.2-k2.4.10-3.0%2Bneoforge.jar",
+      "name": "KotlinLangForge",
+      "version": "318K66ba",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/VsJnrw8k/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar",
+      "name": "ModernFix",
+      "version": "VsJnrw8k",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/9leXt4A5/versions/nL0TTR3C/monolib-neoforge-1.21.1-4.1.0.jar",
+      "name": "monolib",
+      "version": "nL0TTR3C",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/CitoQHqE/moonlight-neoforge-1.21.1-3.3.0.jar",
+      "name": "moonlight",
+      "version": "CitoQHqE",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/N67LJgrN/sliceanddice-4.3.3-neoforge.jar",
+      "name": "slice-and-dice",
+      "version": "N67LJgrN",
       "type": "mod"
     }
   ]
