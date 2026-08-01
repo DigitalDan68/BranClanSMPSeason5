@@ -20,12 +20,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar",
-      "name": "architectury-api",
-      "version": "ZxYGwlk0",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/rGPw090r/artifacts-neoforge-13.2.1.jar",
       "name": "artifacts",
       "version": "rGPw090r",
@@ -152,24 +146,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/Kijd1iDy/createdieselgenerators-1.21.1-1.3.14.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "create-diesel-generators",
-      "version": "Kijd1iDy",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/lSnZyFnZ/CreateDragonsPlus-1.11.2b.jar?mr_download_reason=standalone",
-      "name": "create-dragons-plus",
-      "version": "lSnZyFnZ",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/hSSqdyU1/versions/R3MyXfQc/Create%20Encased-1.21.1-1.9.0-ht1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "create-encased",
-      "version": "R3MyXfQc",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/qUpvzZ83/create-enchantment-industry-2.4.2.jar?mr_download_reason=standalone&mr_loader=neoforge",
       "name": "create-enchantment-industry",
       "version": "qUpvzZ83",
@@ -191,12 +167,6 @@
       "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/3Y4r0ItR/create_power_loader-2.0.5-mc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "create-power-loader",
       "version": "3Y4r0ItR",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/mvE5W1r2/railways-0.3.0-beta%2Bneoforge-mc1.21.1.jar?mr_download_reason=standalone",
-      "name": "create-steam-n-rails-1.21.1",
-      "version": "mvE5W1r2",
       "type": "mod"
     },
     {
@@ -422,27 +392,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/77ZcitZl/sophisticatedbackpacks-1.21.1-3.25.71.1997.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "sophisticated-backpacks",
-      "version": "77ZcitZl",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/92jCynbj/sophisticatedcore-1.21.1-1.4.76.2170.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "sophisticated-core",
-      "version": "92jCynbj",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/d6MhxwRo/versions/j16Kori6/soul-fire-d-neoforge-1.21-6.1.0.jar",
       "name": "soul-fire-d",
       "version": "j16Kori6",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/zqFS0wQJ/versions/mjjY93IL/stackable_stew_and_soup-merged-1.21.1-2.0.1.jar",
-      "name": "stackable-stew-and-soup",
-      "version": "mjjY93IL",
       "type": "mod"
     },
     {
@@ -458,21 +410,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/Ud6brJoG/supplementaries-neoforge-1.21.1-3.8.2.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "supplementaries",
-      "version": "Ud6brJoG",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "name": "terrablender",
       "version": "6e8GCrLb",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/XZNI4Cpy/versions/x8jcBWWG/toms_storage-1.21-2.3.2.jar",
-      "name": "toms-storage",
-      "version": "x8jcBWWG",
       "type": "mod"
     },
     {
@@ -638,12 +578,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/ApkoHNO9/versions/hTnJ29I0/createpropulsion-1.1.4.jar?mr_download_reason=standalone",
-      "name": "Create: Propulsion Simulated",
-      "version": "hTnJ29I0",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/eBzFuVTM/versions/ygogZrIE/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "WaterFrames",
       "version": "ygogZrIE",
@@ -653,12 +587,6 @@
       "url": "https://cdn.modrinth.com/data/dGGbEGoV/versions/fYHfGRbK/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
       "name": "WaterVison",
       "version": "fYHfGRbK",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/zuARv1N7/versions/enJ3UVZ3/vista-neoforge-1.21.1-5.1.2.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "Vista",
-      "version": "enJ3UVZ3",
       "type": "mod"
     },
     {
@@ -785,6 +713,78 @@
       "url": "https://github.com/DigitalDan68/CreateModRollerPloughFix/releases/download/v1.0.10/create_mod_roller_plough_fix-1.0.10.jar",
       "name": "CreateAeroMechanicalRollerPatch",
       "version": "1.0.10",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar",
+      "name": "architectury-api",
+      "version": "1IiqEQGl",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/UoPH8lO1/createdieselgenerators-1.21.1-1.3.15.jar",
+      "name": "create-diesel-generators",
+      "version": "UoPH8lO1",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/LxesD770/CreateDragonsPlus-1.11.3.jar",
+      "name": "create-dragons-plus",
+      "version": "LxesD770",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/hSSqdyU1/versions/t6MATlU9/Create%20Encased-1.21.1-1.9.0-ht3.jar",
+      "name": "create-encased",
+      "version": "t6MATlU9",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/HOPX5oro/railways-0.2.1%2Bneoforge-mc1.21.1.jar",
+      "name": "create-steam-n-rails-1.21.1",
+      "version": "HOPX5oro",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ApkoHNO9/versions/H13U56dc/createpropulsion-1.1.5.jar",
+      "name": "Create: Propulsion Simulated",
+      "version": "H13U56dc",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/FHd2LYlQ/sophisticatedbackpacks-1.21.1-3.25.73.2020.jar",
+      "name": "sophisticated-backpacks",
+      "version": "FHd2LYlQ",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/Yx6FiECq/sophisticatedcore-1.21.1-1.4.80.2194.jar",
+      "name": "sophisticated-core",
+      "version": "Yx6FiECq",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/zqFS0wQJ/versions/esXdfKAC/stackable_stew_and_soup-neoforge-1.21.1-2.1.0.jar",
+      "name": "stackable-stew-and-soup",
+      "version": "esXdfKAC",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/UPJIp6At/supplementaries-neoforge-1.21.1-3.8.5.jar",
+      "name": "supplementaries",
+      "version": "UPJIp6At",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/XZNI4Cpy/versions/QQqFyS6K/toms_storage-1.21-2.4.1.jar",
+      "name": "toms-storage",
+      "version": "QQqFyS6K",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/zuARv1N7/versions/r6IGPoXU/vista-neoforge-1.21.1-5.2.5.jar",
+      "name": "Vista",
+      "version": "r6IGPoXU",
       "type": "mod"
     }
   ]
