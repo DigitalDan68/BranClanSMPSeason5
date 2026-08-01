@@ -242,12 +242,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/dAxle9F7/forgified-fabric-api-0.116.14%2B2.3.0%2B1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "forgified-fabric-api",
-      "version": "dAxle9F7",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
       "name": "fzzy-config",
       "version": "MAPG6cXE",
@@ -785,6 +779,12 @@
       "url": "https://github.com/DigitalDan68/CreateModRollerPloughFix/releases/download/v1.0.10/create_mod_roller_plough_fix-1.0.10.jar",
       "name": "CreateAeroMechanicalRollerPatch",
       "version": "1.0.10",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/L9bk5uA9/forgified-fabric-api-0.116.15%2B2.3.1%2B1.21.1.jar",
+      "name": "forgified-fabric-api",
+      "version": "L9bk5uA9",
       "type": "mod"
     }
   ]
