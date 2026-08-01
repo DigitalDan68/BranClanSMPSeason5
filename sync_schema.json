@@ -722,12 +722,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZkPOaQLQ/modernfix-neoforge-5.27.15%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "ModernFix",
-      "version": "ZkPOaQLQ",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/aq9qUUQG/versions/5xWzE6Yk/create-stuff-additions1.21.1_v2.1.4a.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "StuffandAdditions",
       "version": "5xWzE6Yk",
@@ -785,6 +779,12 @@
       "url": "https://github.com/DigitalDan68/CreateModRollerPloughFix/releases/download/v1.0.10/create_mod_roller_plough_fix-1.0.10.jar",
       "name": "CreateAeroMechanicalRollerPatch",
       "version": "1.0.10",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/VsJnrw8k/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar",
+      "name": "ModernFix",
+      "version": "VsJnrw8k",
       "type": "mod"
     }
   ]
