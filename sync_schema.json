@@ -146,12 +146,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/lwDDGkVQ/createfood-neoforge-1.21.1-2.6.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
-      "name": "create-food",
-      "version": "lwDDGkVQ",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/sH9tXU9f/versions/7oNrI3y9/createliquidfuel-2.1.1-1.21.1.jar",
       "name": "create-liquid-fuel",
       "version": "7oNrI3y9",
@@ -257,12 +251,6 @@
       "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/RtvqnbKi/irons_spellbooks-1.21.1-3.16.2.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "irons-spells-n-spellbooks",
       "version": "RtvqnbKi",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yd8FKCmx/Jade-1.21.1-NeoForge-15.10.5.jar",
-      "name": "jade",
-      "version": "yd8FKCmx",
       "type": "mod"
     },
     {
@@ -554,12 +542,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/P26k79kP/versions/EYVmBa7H/aeroworks-1.3.0.jar?mr_download_reason=standalone",
-      "name": "Create: Aeroworks",
-      "version": "EYVmBa7H",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/An633Gxh/versions/vjxJltES/bf_blockpack-neoforge-1.21.1-1.0.11.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "name": "Block Pack",
       "version": "vjxJltES",
@@ -656,12 +638,6 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/LxesD770/CreateDragonsPlus-1.11.3.jar",
-      "name": "create-dragons-plus",
-      "version": "LxesD770",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/hSSqdyU1/versions/t6MATlU9/Create%20Encased-1.21.1-1.9.0-ht3.jar",
       "name": "create-encased",
       "version": "t6MATlU9",
@@ -680,39 +656,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/FHd2LYlQ/sophisticatedbackpacks-1.21.1-3.25.73.2020.jar",
-      "name": "sophisticated-backpacks",
-      "version": "FHd2LYlQ",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/Yx6FiECq/sophisticatedcore-1.21.1-1.4.80.2194.jar",
-      "name": "sophisticated-core",
-      "version": "Yx6FiECq",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/zqFS0wQJ/versions/esXdfKAC/stackable_stew_and_soup-neoforge-1.21.1-2.1.0.jar",
       "name": "stackable-stew-and-soup",
       "version": "esXdfKAC",
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/UPJIp6At/supplementaries-neoforge-1.21.1-3.8.5.jar",
-      "name": "supplementaries",
-      "version": "UPJIp6At",
-      "type": "mod"
-    },
-    {
       "url": "https://cdn.modrinth.com/data/XZNI4Cpy/versions/QQqFyS6K/toms_storage-1.21-2.4.1.jar",
       "name": "toms-storage",
       "version": "QQqFyS6K",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/zuARv1N7/versions/r6IGPoXU/vista-neoforge-1.21.1-5.2.5.jar",
-      "name": "Vista",
-      "version": "r6IGPoXU",
       "type": "mod"
     },
     {
@@ -725,12 +677,6 @@
       "url": "https://cdn.modrinth.com/data/pJGcKPh1/versions/zrZBuGfY/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
       "name": "corpse-x-curios-api-compat",
       "version": "zrZBuGfY",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/nLLornod/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
-      "name": "CreativeCore",
-      "version": "nLLornod",
       "type": "mod"
     },
     {
@@ -773,12 +719,6 @@
       "url": "https://cdn.modrinth.com/data/9leXt4A5/versions/nL0TTR3C/monolib-neoforge-1.21.1-4.1.0.jar",
       "name": "monolib",
       "version": "nL0TTR3C",
-      "type": "mod"
-    },
-    {
-      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/CitoQHqE/moonlight-neoforge-1.21.1-3.3.0.jar",
-      "name": "moonlight",
-      "version": "CitoQHqE",
       "type": "mod"
     },
     {
@@ -827,6 +767,66 @@
       "url": "https://cdn.modrinth.com/data/sZbcIrJb/versions/Ucq7afTi/sablephysicscompat-1.3.0.jar",
       "name": "Sable: Physics Compat",
       "version": "Ucq7afTi",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/zuARv1N7/versions/QR5stuX8/vista-1.21.1-5.3.0-neoforge.jar",
+      "name": "Vista",
+      "version": "QR5stuX8",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/qvhtxmU6/supplementaries-1.21.1-3.8.8-neoforge.jar",
+      "name": "supplementaries",
+      "version": "qvhtxmU6",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/JoVN8649/sophisticatedcore-1.21.1-1.4.82.2230.jar",
+      "name": "sophisticated-core",
+      "version": "JoVN8649",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/f5qtL9Ld/sophisticatedbackpacks-1.21.1-3.25.74.2048.jar",
+      "name": "sophisticated-backpacks",
+      "version": "f5qtL9Ld",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/in1fCzCm/moonlight-1.21.1-3.3.2-neoforge.jar",
+      "name": "moonlight",
+      "version": "in1fCzCm",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "name": "jade",
+      "version": "eYz2YBGT",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/cv1iRM3A/CreativeCore_NEOFORGE_v2.13.42_mc1.21.1.jar",
+      "name": "CreativeCore",
+      "version": "cv1iRM3A",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/P26k79kP/versions/tQ0dgIjI/aeroworks-1.4.2.jar",
+      "name": "Create: Aeroworks",
+      "version": "tQ0dgIjI",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/FmjGqkQt/createfood-neoforge-1.21.1-2.7.0.jar",
+      "name": "create-food",
+      "version": "FmjGqkQt",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/PsnDvjPV/CreateDragonsPlus-1.11.4.jar",
+      "name": "create-dragons-plus",
+      "version": "PsnDvjPV",
       "type": "mod"
     }
   ]
