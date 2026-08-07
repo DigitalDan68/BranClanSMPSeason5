@@ -1075,6 +1075,12 @@
       "name": "Sable: Physics Compat",
       "version": "Ucq7afTi",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/eIsyUZG3/versions/sKw2ERw2/create-dyn-light-2.3.1-sodium-sable.jar",
+      "name": "Create Sable Dynamic Lights",
+      "version": "sKw2ERw2",
+      "type": "mod"
     }
   ]
 }
