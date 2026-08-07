@@ -1081,6 +1081,12 @@
       "name": "Create Sable Dynamic Lights",
       "version": "sKw2ERw2",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/jCrJ4iGH/versions/7HFg7hFp/sablejade-1.2.1.jar",
+      "name": "Jade Sable Compat",
+      "version": "7HFg7hFp",
+      "type": "mod"
     }
   ]
 }
