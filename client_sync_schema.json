@@ -1057,6 +1057,12 @@
       "name": "spark",
       "version": "v5qtqRQi",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/jUEBjdTl/versions/k4FuUmwQ/waterworks-1.1.2.jar",
+      "name": "Waterworks",
+      "version": "k4FuUmwQ",
+      "type": "mod"
     }
   ]
 }
