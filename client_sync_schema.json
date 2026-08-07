@@ -1063,6 +1063,12 @@
       "name": "Waterworks",
       "version": "k4FuUmwQ",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/W1ZUfWdr/versions/RIBBfVi3/simulatedcoasters-0.1.4.jar",
+      "name": "Create: Coasters Simulated",
+      "version": "RIBBfVi3",
+      "type": "mod"
     }
   ]
 }
