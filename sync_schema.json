@@ -834,6 +834,12 @@
       "name": "Strut Your Stuff",
       "version": "Nrn7hYca",
       "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/qucToeoF/createcobblestone-1.4.12%2Bneoforge-1.21.1-144.jar",
+      "name": "Create Cobblestone",
+      "version": "qucToeoF",
+      "type": "mod"
     }
   ]
 }
